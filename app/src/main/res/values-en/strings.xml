@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleteAll">Delete all?</string>
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="history">History</string>
+    <string name="search">Search</string>
+    <string name="category">Category</string>
+    <string name="bookmark">Bookmark</string>
+
+    <string name="dictionary">Dictionary</string>
+    <string name="eng_ru_dictionary">Eng-RU
+        dictionary</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="Search">Search…</string>
+</resources>

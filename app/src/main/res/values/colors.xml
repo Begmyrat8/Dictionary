@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ff">#81A3DF</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+    <color name="grey">#978C8C</color>
+    <color name="dark_grey">#605D5D</color>
+    <color name="dark_blue">#2E0361</color>
+    <color name="green">#2CEE00</color>
+    <color name="yellow">#FFC107</color>
+    <color name="light_blue">#09F4D1</color>
+    <color name="dark_red">#870101</color>
+    <color name="dark_green">#C40D5705</color>
+    <color name="purple">#B535B3</color>
+    <color name="gold">#A39405</color>
+    <color name="silver">#A19A99</color>
+    <color name="brawn">#3E2603</color>
+    <color name="light_red">#FF0000</color>
+    <color name="light_green">#35FF1F</color>
+    <color name="colorPrimary">#303F9F</color>
+    <color name="colorPrimaryOld">#233ED8</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--    <color name="colorAccent">#405981</color>-->
+    <color name="colorAccent">#303F9F</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_gray">#6c6c6c</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="green_light">#1EC000</color>
+
+</resources>

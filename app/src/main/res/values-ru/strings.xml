@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="deleteAll">Удалить всё?</string>
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="history">История</string>
+    <string name="search">Поиск</string>
+    <string name="category">Категории</string>
+    <string name="bookmark">Закладки</string>
+
+    <string name="dictionary">Словарь</string>
+    <string name="eng_ru_dictionary">Eng-RU
+        dictionary</string>
+    <string name="russian">Русские</string>
+    <string name="english">Англкские</string>
+    <string name="Search">Поиск…</string>
+</resources>
